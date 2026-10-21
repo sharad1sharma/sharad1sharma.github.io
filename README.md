@@ -97,8 +97,8 @@
 <p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sharad1sharma&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234476900%3Fu%3Dc8916fcdd260154edd7926b59abd537a19223afe%26v%3D4&website=https%3A%2F%2Fportfolio-navy-five-6n7sehsl5a.vercel.app%2F&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=sharad1sharma&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234476900%3Fu%3Dc8916fcdd260154edd7926b59abd537a19223afe%26v%3D4&website=https%3A%2F%2Fportfolio-navy-five-6n7sehsl5a.vercel.app%2F&mode=dark" width="100%" alt="SHARAD SHARMA contact links" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharad1sharma/sharad1sharma.github.io/main/assets/social-light.svg" />
+  <img src="https://raw.githubusercontent.com/sharad1sharma/sharad1sharma.github.io/main/assets/social-dark.svg" width="100%" alt="SHARAD SHARMA contact links" />
 </picture>
 
 <p><a href="https://github.com/sharad1sharma">GitHub</a> &nbsp;·&nbsp; <a href="https://portfolio-navy-five-6n7sehsl5a.vercel.app/">Website</a></p>
