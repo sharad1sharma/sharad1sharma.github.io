@@ -103,5 +103,5 @@
 
 <p><a href="https://github.com/sharad1sharma">GitHub</a> &nbsp;·&nbsp; <a href="https://portfolio-navy-five-6n7sehsl5a.vercel.app/">Website</a></p>
 
-<p><sub>SHARAD SHARMA · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p><sub>SHARAD SHARMA · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">Copyright </a></sub></p>
 </div>
